@@ -1,7 +1,7 @@
-package az.ingress.aaaaaspring.Controller;
+package az.ingress.SpringProject.Controller;
 
-import az.ingress.aaaaaspring.Model.Response.BusDetailsResponse;
-import az.ingress.aaaaaspring.Service.BusService;
+import az.ingress.SpringProject.Model.Response.BusDetailsResponse;
+import az.ingress.SpringProject.Service.BusService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

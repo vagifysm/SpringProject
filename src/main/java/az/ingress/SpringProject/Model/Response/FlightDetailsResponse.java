@@ -1,4 +1,4 @@
-package az.ingress.aaaaaspring.Model.Response;
+package az.ingress.SpringProject.Model.Response;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,6 +1,6 @@
-package az.ingress.aaaaaspring.Service;
+package az.ingress.SpringProject.Service;
 
-import az.ingress.aaaaaspring.Model.Response.FlightDetailsResponse;
+import az.ingress.SpringProject.Model.Response.FlightDetailsResponse;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;

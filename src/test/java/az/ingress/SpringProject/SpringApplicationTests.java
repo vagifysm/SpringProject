@@ -1,10 +1,10 @@
-package az.ingress.aaaaaspring;
+package az.ingress.SpringProject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AaaaaSpringApplicationTests {
+class SpringApplicationTests {
 
 	@Test
 	void contextLoads() {

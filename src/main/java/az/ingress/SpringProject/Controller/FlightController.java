@@ -1,7 +1,7 @@
-package az.ingress.aaaaaspring.Controller;
+package az.ingress.SpringProject.Controller;
 
-import az.ingress.aaaaaspring.Model.Response.FlightDetailsResponse;
-import az.ingress.aaaaaspring.Service.FlightService;
+import az.ingress.SpringProject.Model.Response.FlightDetailsResponse;
+import az.ingress.SpringProject.Service.FlightService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
